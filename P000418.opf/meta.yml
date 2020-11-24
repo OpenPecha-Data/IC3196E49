@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG22377
   title: རྩ་རྒྱུད་རྟོག་བདུན་སོགས།
-  volume: ''
+  volume:
+    cb4fbb0536fc4c28aa22d49670803418:
+      image_group_id: I1KG22396
+      title: Volume 1 of rdo rje 'jigs byed kyi rtsa ba'i rgyud rtog pa bdun pa sogs/
+      volume_number: 1
+      total_pages: 1030
   author: ''
+ebook_metadata:
+  title: རྩ་རྒྱུད་རྟོག་བདུན་སོགས།
+  author: ''
+  sku: P000418
+  cover: cover.jpg
+  layers:
+  - pagination
